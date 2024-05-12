@@ -27,7 +27,7 @@ You are a data analyst for Northern Lights Air, a Canadian airline company. The 
 * Results showed that the campaign is most effective on  *Married male individuals who have a bachelor's degree* who made up 32% of the signups followed by *Married female individuals who have a bachelor's degree* accounting who made up 29% of the signups.
 3. What impact did the campaign have on booked flights during summer?
 * Those who signed-up during the campaign booked 19% of the flights during the summer of 2018.
-4. How long does our customer stay before cancelling their subscription?
+4. How long does our customers stay before cancelling their subscription?
 * Cohort analysis showed that our memberships stay 23 months on the average.
 5. Conduct a segmentation analysis on our current customer database.
 * RFM customer segmentation showed that our active members pool are made-up of:
