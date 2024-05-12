@@ -1,7 +1,7 @@
-# Northern Light Airlines Promotional Campaign and Customer Segmentation Analysis
+# Northern Light Air Promotional Campaign and Customer Segmentation Analysis
 
 ## Scenario
-You are a data analyst for Northern Lights Airlines, a Canadian airline company. The company ran a promotional campaign from Feb-Apr 2018 to increase membership and the marketing team would like you to answer the following questions:
+You are a data analyst for Northern Lights Air, a Canadian airline company. The company ran a promotional campaign from Feb-Apr 2018 to increase membership and the marketing team would like you to answer the following questions:
 
 1. What impact did the campaign have on loyalty program memberships?
 2. Was the campaign adoption more successful for certain demographics of loyalty members?
