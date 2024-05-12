@@ -28,9 +28,9 @@ You are a data analyst for Northern Lights Airlines, a Canadian airline company.
 3. What impact did the campaign have on booked flights during summer?
 * Those who signed-up during the campaign booked 19% of the flights during the summer of 2018.
 4. How long does our customer stay before cancelling their subscription?
-* Cohort analysis shows that our memberships stay 23 months on the average.
+* Cohort analysis showed that our memberships stay 23 months on the average.
 5. Conduct a segmentation analysis on our current customer database.
-* RFM customer segmentation shows that our active members pool are made-up of:
+* RFM customer segmentation showed that our active members pool are made-up of:
 	* About-to-sleep: 20%
 	* Champions: 20%
 	* Hibernating: 19.7%
